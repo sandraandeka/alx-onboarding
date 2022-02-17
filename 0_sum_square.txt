@@ -1,0 +1,12 @@
+﻿calculate the sum of squares of given input of numbers
+                                     Read n 
+                                     Sum = 0
+                           For counter = 1, user step should be increased = 1
+                         Output counter
+
+
+                         Endfor
+
+
+                         Sum = counter  *counter + n* n
+                             Stop
