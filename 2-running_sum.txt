@@ -1,6 +1,4 @@
 ﻿IT'S NOT ENOUGH TO RUN ONE MUST RUN IN TIME
-
-
 1. Set the sum initially to 0
 2.   The user enters the desired number which initially will be n
 3. While n is greater than or equal to zero
