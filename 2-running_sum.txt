@@ -1,8 +1,0 @@
-﻿IT'S NOT ENOUGH TO RUN ONE MUST RUN IN TIME
-1. Set the sum initially to 0
-2.   The user enters the desired number which initially will be n
-3. While n is greater than or equal to zero
-4. The number entered will be added to the sum 
-5. Set the sum to n plus sum
-6. If n is less than 0 then stop the count
-7. Print n
