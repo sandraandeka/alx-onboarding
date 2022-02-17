@@ -1,0 +1,8 @@
+﻿calculate the sum of squares of given input of numbers
+
+
+The sum will initially start at 0, and input number will be n.
+We then create a loop that checks the initial input number If the number is less than the initial number the loop continues .
+The totalSum is going to be equal to the sum added to input number multiplied by i multiply by sum multiply by i .
+Finally you print the sum then we begin the process again by increasing it by one.
+Finally the loop ends.
