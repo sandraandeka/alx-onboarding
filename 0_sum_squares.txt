@@ -1,9 +1,0 @@
-﻿calculate the sum of squares of given input of numbers
-1. Start the initial input number with  n    
-2. The sum intiatial number will be 0
-3. For counter should start at 1 
-4. Then the user input step should increase by 1
-5. Output counter
-6. Endfor
-7. The sum will be equals to counter multiply by counter added to n multiply by n
-8. Stop
