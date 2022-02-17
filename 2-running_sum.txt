@@ -1,0 +1,14 @@
+﻿IT'S NOT ENOUGH TO RUN ONE MUST RUN IN TIME
+Read n
+
+
+ Set sum to 0
+
+
+ While(x >= 0)
+
+
+ Set sum to n + sum
+
+
+ Print n
